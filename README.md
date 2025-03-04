@@ -21,10 +21,11 @@
 
   
 ## Functions:
-- **Pushbutton 1 (PB1)**: Turns the fan **ON/OFF**. You can also send the character 'P' via Bluetooth to toggle the fan power state.
-- **Pushbutton 2 (PB2)**: Adjusts the **fan speed** (4 levels of speed). You can also send the character 'S'.
-- **Pushbutton 3 (PB3)**: Changes the **direction** of the fan (e.g., clockwise or counterclockwise). You can also send the character 'D'.
+- **Pushbutton 1 (PB1)**: Turns the fan **ON/OFF**.
+- **Pushbutton 2 (PB2)**: Adjusts the **fan speed** (4 levels of speed).
+- **Pushbutton 3 (PB3)**: Changes the **direction** of the fan (e.g., clockwise or counterclockwise).
 - **Pushbutton 4 (PB4)**: Controls the **servo motor rotation angle** (adjusts the fan's rotation angle).
+- **Bluetooth**: send 'P' for power, 'S' for speed, 'D' for direction and 'R' for angel rotate.
 
 
 ## Video Demonstration
