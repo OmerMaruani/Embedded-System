@@ -30,5 +30,5 @@
 
 ## Video Demonstration
 Check out the video demonstration of the **SmartFan** project here:  
-[Watch the Video] https://drive.google.com/file/d/1nQjAiE5fn6PUWNACbgIPGUTGWU4xyesl/view?usp=drivesdk
+https://drive.google.com/file/d/1nQjAiE5fn6PUWNACbgIPGUTGWU4xyesl/view?usp=drivesdk
 
