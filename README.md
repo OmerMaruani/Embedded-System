@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="SystemPicture.jpg" alt="SmartFan Front" width="300"/>
-  <img src="Blocks.jpg" alt="SmartFan Side" width="300"/>
+  <img src="Blocks.png" alt="SmartFan Side" width="300"/>
 </p>
 
 
