@@ -3,8 +3,6 @@
 **SmartFan** is an embedded system project developed as part of the Microcontroller course. The system allows for complete control of a fan, including power on/off, speed adjustment, direction control, and angle rotation. The fan can be controlled via push buttons or Bluetooth through a phone app, with all settings displayed on an LCD screen for easy interaction.
 
 ## System photo
-
-## System photo
 ![SmartFan Photo](SystemPicture.jpg)
 
 
