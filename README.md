@@ -4,11 +4,8 @@
 
 ## System photo
 
-<p align="center">
-  <img src="SystemPicture.jpg" alt="SmartFan Front" width="300"/>
-  <img src="Blocks.png" alt="SmartFan Side" width="300"/>
-</p>
-
+## System photo
+![SmartFan Photo](SystemPicture.jpg)
 
 
 
