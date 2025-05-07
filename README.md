@@ -5,8 +5,8 @@
 ## System photo
 
 <p align="center">
-  <img src="SystemPicture.jpg" alt="SmartFan Front" width="500"/>
-  <img src="Blocks.jpg" alt="SmartFan Side" width="500"/>
+  <img src="SystemPicture.jpg" alt="SmartFan Front" width="300"/>
+  <img src="Blocks.jpg" alt="SmartFan Side" width="300"/>
 </p>
 
 
